@@ -6,8 +6,8 @@ Este repositório contém os certificados que obtive ao longo da minha jornada d
 
 Aqui você encontrará os certificados organizados por área ou tecnologia.
 
-- [Certificados de Desenvolvimento Web]
-- [Certificados de PHP]
+- **Certificados de Desenvolvimento Web**
+- **Certificados de PHP**
 
 
 ## Como Contribuir 🤝
@@ -17,4 +17,4 @@ Se você tiver alguma sugestão de organização ou melhoria para este repositó
 
 ---
 
-Feito por [Davi Nascimento]
+Feito por **Davi Nascimento**
